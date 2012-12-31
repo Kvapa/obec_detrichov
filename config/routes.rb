@@ -1,5 +1,5 @@
 ObecDetrichov::Application.routes.draw do
-  resources :news
+  resources :reports
 
 
   resources :pages
